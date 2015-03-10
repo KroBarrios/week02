@@ -1,3 +1,36 @@
 WEEK 02 - NOTES
 
 Building a Website: Introduction to html and css
+
+Building a Website: Introduction to html and css
+
+images tips:
+- keep everyhting lower case
+- do not use spaces to save images
+- you can use dashes: the reason for this is that when google hit a word with a dash google will take the different words separetly = my-cat-rocks (will take the words separty) my_cat_rocks (wil take the whole as one word)
+
+HTML
+- Semantic meaning to bits of the text
+- Aplying containers
+
+- boxes can contain text or other boxes
+boxes have types and names.
+ Boxes have a semantic meaning but the user or browser wont care
+
+ <br>: break
+ <hr> horizontal break
+
+ you can add attributes <article title="Some Content" style="background: red;"></article>
+
+ The important thing is to know how they work
+ attribute-syle
+
+ Tags yo need for it to be a html 
+ <!DOCTYPE hmtl>
+ html
+ head
+ body
+ TEMPLATE
+ <!DOCTYPE hmtl>
+ <hmtl>
+ 	<head>Title</head>

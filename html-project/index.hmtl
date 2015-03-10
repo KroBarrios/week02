@@ -1,15 +1,16 @@
-<!DOCTYPE hmtl>
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>My Fun Bacon Page</title>
+		<link rel="style" href="style.css" type="text/css" />
 	</head>
 	<body>
 		<h1>My Fun Bacon Page</h1>
 			<p>
 			Bacon ipsum dolor amet bresaola chuck landjaeger, salami sausage pig doner spare ribs kielbasa swine. Cow salami biltong swine bresaola, beef ribs porchetta. Pancetta pork belly chuck spare ribs jowl landjaeger. Landjaeger shoulder jowl, pork chop t-bone turkey pork loin. Rump short ribs meatloaf, sausage swine prosciutto bresaola chuck meatball hamburger.
-
+			<br>
 			Jerky flank shankle ham sausage chicken strip steak cow shoulder. Flank jowl shoulder, alcatra tongue spare 	ribs filet mignon chicken bacon tri-tip strip steak turducken short ribs. Pastrami tri-tip salami, sirloin ham ham hock kevin picanha doner turkey. Strip steak boudin meatball kevin pastrami filet mignon prosciutto. Sausage venison spare ribs jerky bacon. Ball tip short loin tongue jerky venison t-bone flank porchetta sausage brisket drumstick jowl kevin.
-
+			<br>
 			Short ribs kielbasa corned beef fatback pork, salami cupim pork belly hamburger alcatra. Short ribs salami rump brisket. Porchetta ham hock spare ribs jerky venison beef ribs leberkas. Jowl ball tip pancetta landjaeger andouille pastrami rump meatloaf cow short loin ground round.
 			</p>
 
